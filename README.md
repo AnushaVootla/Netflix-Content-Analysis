@@ -85,7 +85,7 @@ Example:
 ### Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/Netflix-Content-Analysis.git
+git clone https://github.com/AnushaVootla/Netflix-Content-Analysis.git
 ```
 
 ### Install dependencies
